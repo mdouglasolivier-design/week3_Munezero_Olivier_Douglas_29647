@@ -1,0 +1,41 @@
+student_id,name,age,gender,program,district,attendance_pct,score
+AUCA001,Aline Uwase,19,F,Information Systems,Gasabo,77,66
+AUCA002,Eric Niyonzima,21,F,Software Engineering,Gasabo,66,46
+AUCA003,Diane Mukamana,27,M,Networking,Gasabo,62,38
+AUCA004,Jean Bosco Habimana,19,F,Accounting,Gasabo,74,38
+AUCA005,Sandrine Ingabire,26,F,Information Systems,Gasabo,94,88
+AUCA006,Patrick Mugisha,21,M,Software Engineering,Musanze,97,70
+AUCA007,Claudine Uwimana,18,F,Networking,Musanze,87,78
+AUCA008,Emmanuel Nkurunziza,22,F,Accounting,Musanze,73,N/A
+AUCA009,Christelle Mutesi,19,F,Information Systems,Musanze,84,47
+AUCA010,Olivier Ndayisenga,23,M,Software Engineering,Musanze,98,68
+AUCA011,Alice Umuhoza,18,M,Networking,Muhanga,94,50
+AUCA012,Fabrice Bizimana,24,F,Accounting,Muhanga,95,72
+AUCA013,Grace Nkusi,27,M,Information Systems,Muhanga,96,59
+AUCA014,Innocent Iradukunda,19,F,Software Engineering,Muhanga,74,72
+AUCA015,Josiane Mahoro,19,F,Networking,Muhanga,66,83
+AUCA016,Kevin Byiringiro,22,M,Accounting,Kicukiro,83,55
+AUCA017,Liliane Nyirahabimana,23,M,Information Systems,Kicukiro,73,69
+AUCA018,Moise Rugamba,19,F,Software Engineering,Kicukiro,94,66
+AUCA019,Nadine Kayitesi,20,M,Networking,Kicukiro,84,69
+AUCA020,Oscar Twagirayezu,26,F,Accounting,Kicukiro,80,absent
+AUCA021,Peace Uwase,21,F,Information Systems,Huye,80,86
+AUCA022,Queen Niyonzima,22,F,Software Engineering,Huye,73,75
+AUCA023,Robert Mukamana,21,M,Networking,Huye,85,93
+AUCA024,Sarah Habimana,20,M,Accounting,Huye,68,66
+AUCA025,Theogene Ingabire,26,M,Information Systems,Huye,97,89
+AUCA026,Umutoni Mugisha,27,M,Software Engineering,Nyagatare,83,63
+AUCA027,Vanessa Uwimana,20,M,Networking,Nyagatare,65,41
+AUCA028,Willy Nkurunziza,19,F,Accounting,Nyagatare,70,89
+AUCA029,Xavera Mutesi,27,F,Information Systems,Nyagatare,84,83
+AUCA030,Yves Ndayisenga,27,M,Software Engineering,Nyagatare,93,67
+AUCA031,Zeina Umuhoza,26,F,Networking,Rubavu,67,69
+AUCA032,Aimee Bizimana,23,F,Accounting,Rubavu,78,90
+AUCA033,Bruce Nkusi,20,M,Information Systems,Rubavu,60,68
+AUCA034,Chantal Iradukunda,26,F,Software Engineering,Rubavu,92,--
+AUCA035,Damien Mahoro,22,F,Networking,Rubavu,69,82
+AUCA036,Esperance Byiringiro,20,F,Accounting,Nyanza,98,76
+AUCA037,Felix Nyirahabimana,25,F,Information Systems,Nyanza,67,81
+AUCA038,Gisele Rugamba,22,F,Software Engineering,Nyanza,63,65
+AUCA039,Hakizimana Kayitesi,27,F,Networking,Nyanza,65,97
+AUCA040,Immaculee Twagirayezu,19,F,Accounting,Nyanza,68,95
